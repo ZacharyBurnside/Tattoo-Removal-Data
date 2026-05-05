@@ -1,0 +1,226 @@
+,id,name,address,address2,city,state,zip,phone,latitude,longitude,status,open_date,url,distance
+0,122,Kendall,8888 SW 136th St,Suite 422,Miami,FL,33176,305-417-9200,25.64232390,-80.33575860,1,2023-02-08,/locations/fl/kendall/,49.08554901686459
+1,45,Miami - Coral Gables,263 Miracle Mile,,Coral Gables,FL,33134,305-787-3610,25.74978420,-80.26006440,1,2019-03-04,/locations/fl/miami-coral-gables/,54.29001758672045
+2,71,Miami - South Beach,1220 17th St,Suite 106,Miami Beach,FL,33139,305-367-8400,25.79189100,-80.14180000,1,2021-11-17,/locations/fl/miami-south-beach/,55.426205110075855
+3,236,Miami - Doral,3737 NW 87th Ave,Suite 106,Doral,FL,33178,305-771-8201,25.80849570,-80.33666350,4,2026-06-25,/locations/fl/miami-doral/,59.68326719829768
+4,190,Aventura,2747 NE 193rd Street,Unit 12,Aventura,FL,33180,305-359-8093,25.95390240,-80.14907640,1,2025-08-28,/locations/fl/aventura/,66.5617108698016
+5,130,Pembroke Pines,14541 SW 5th St.,,Pembroke Pines,FL,33027,954-510-5500,26.00432300,-80.33604140,1,2023-08-30,/locations/fl/pembroke-pines/,72.48796783519582
+6,54,Fort Lauderdale,2406 N Federal Hwy,,Fort Lauderdale,FL,32819,954-860-8687,26.12243860,-80.13731740,1,2019-10-01,/locations/fl/fort-lauderdale/,78.02473976126866
+7,200,Palm Beach,11701 Lake Victoria Gardens Ave,Suite 3108,Palm Beach Gardens,FL,33410,561-786-1260,26.84969390,-80.09290680,1,2025-09-10,/locations/fl/palm-beach/,127.93324027281805
+8,223,San Antonio - Quarry Village,310 E Basse Rd,Suite 105,San Antonio,TX,78209,210-293-4550,29.49588190,-98.47771810,1,2026-01-09,/locations/tx/san-antonio-quarry-village/,107.33112020461687
+9,164,San Antonio - Alamo Ranch,5535 W Loop 1604 N,#107,San Antonio,TX,78253,210-879-1900,29.49202760,-98.70822440,1,2024-02-07,/locations/tx/san-antonio-alamo-ranch/,111.66071583436342
+10,76,San Antonio - La Cantera,15900 La Cantera Parkway,Suite 6680,San Antonio,TX,78256,210-526-4000,29.59156280,-98.61471600,1,2021-08-18,/locations/tx/san-antonio-la-cantera/,116.0952537277152
+11,105,Friendswood,700 Baybrook Mall,C117,Friendswood,TX,77546,281-944-7000,29.54489220,-95.14931550,1,2022-10-26,/locations/tx/friendswood/,107.12525636934232
+12,216,Houston - Pearland,11200 Broadway St,Suite 760,Pearland,TX,77584,281-710-0080,29.55293880,-95.39227820,1,2025-09-09,/locations/tx/houston-pearland/,109.89711792403995
+13,43,Sugar Land,16535 Southwest Fwy,Suite 1008,Sugar Land,TX,77479,832-432-8400,29.59121780,-95.62683840,1,2018-12-01,/locations/tx/sugar-land/,116.31011944170092
+14,32,Houston,5385 Westheimer Rd,,Houston,TX,77056,346-800-4445,29.73845690,-95.46977390,1,2017-04-01,/locations/tx/houston-galleria/,123.43406034586154
+15,140,Houston - Houston Heights,246 W 19th St,,Houston,TX,77008,713-682-9080,29.80261960,-95.40093940,1,2023-09-27,/locations/tx/houston-heights/,126.88922126646742
+16,241,Katy,2643 Commercial Center Blvd,Suite B360,Katy,TX,77494,281-993-7770,29.74118910,-95.77405380,4,2026-06-24,/locations/tx/katy/,129.09966474941916
+17,159,St Petersburg,350 2nd Ave S,,St. Petersburg,FL,33701,727-390-8006,27.76920950,-82.63815410,1,2025-01-22,/locations/fl/st-petersburg/,27.25118073806923
+18,101,Tampa,319 W Palm Ave,,Tampa,FL,33602,813-771-0060,27.96243480,-82.46491790,1,2023-05-10,/locations/fl/tampa/,32.75213509052539
+19,219,Tampa - Wesley,28211 Paseo Drive,Suite 165,Wesley Chapel,FL,33543,813-430-0333,28.18840960,-82.34747780,1,2025-12-03,/locations/fl/tampa-wesley/,41.84937816577059
+20,220,Orlando - Winter Park,933 N Orlando Ave,Suite D,Winter Park,FL,32789,407-987-2917,28.60545760,-81.36550480,1,2025-11-12,/locations/fl/orlando-winter-park/,107.87350789973067
+21,191,Orlando,717 N Alafaya Trail,,Orlando,FL,32828,407-584-2004,28.55686460,-81.20687020,1,2025-05-21,/locations/fl/orlando/,115.69222964351026
+22,62,Chula Vista,2020 Birch Rd,Suite 101,Chula Vista,CA,91915,619-350-8322,32.62077430,-116.96652350,1,2020-07-01,/locations/ca/chula-vista/,125.54269586450604
+23,137,La Mesa,3743 Avocado Blvd.,,La Mesa,CA,91941,619-626-1311,32.74749540,-116.95967690,1,2023-08-16,/locations/ca/la-mesa/,133.22448772458748
+24,5,Hillcrest,3671 Fifth Ave,,San Diego,CA,92103,619-295-2929,32.74458030,-117.16006830,1,2009-04-01,/locations/ca/san-diego-hillcrest/,138.42864138987
+25,12,La Jolla - UTC,8935 Towne Center Dr,Suite 107,San Diego,CA,92122,858-452-2929,32.86781310,-117.20622370,1,2011-12-01,/locations/ca/la-jolla-utc/,147.16262147814464
+26,57,Tucson,2905 E Skyline Dr,Suite 252,Tucson,AZ,85718,520-600-5757,32.32474780,-110.93000310,1,2019-12-15,/locations/az/tucson/,106.62650408191283
+27,169,El Paso,8889 Gateway Blvd W,Suite 1105,El Paso,TX,79925,915-975-1155,31.76903550,-106.37070380,1,2024-05-01,/locations/tx/el-paso/,64.81660180906889
+28,60,Austin - The Domain,11011 Domain Dr,Suite 106,Austin,TX,78758,512-359-8000,30.39632040,-97.72627070,1,2021-09-29,/locations/tx/austin-the-domain/,44.768899960335446
+29,116,Austin - East Side,1109 E 5th St,Suite 105,Austin,TX,78702,512-877-7700,30.26360790,-97.73184660,1,2022-11-16,/locations/tx/austin-eastside/,53.31944665826247
+30,227,Austin - Sunset Valley,5400 Brodie Ln,Suite 280,Austin,TX,78745,512-650-3270,30.22972980,-97.82251820,1,2026-03-18,/locations/tx/austin-sunset-valley/,54.2573780705523
+31,30,Fort Worth,2600 W 7th St Suite 102,,Fort Worth,TX,76107,682-224-8222,32.75157910,-97.35285850,1,2017-02-01,/locations/tx/fort-worth/,126.83955855447746
+32,128,Arlington - TX,4001 Arlington Highlands Blvd,Suite 115,Arlington,TX,76018,817-435-9000,32.68006870,-97.10876920,1,2023-04-12,/locations/tx/arlington/,127.32399552332906
+33,203,Fort Worth - Alliance Town Center,9593 Sage Meadow Trail,Suite 198,Fort Worth,TX,76177,817-745-5155,32.91333170,-97.31474710,1,2025-05-07,/locations/tx/fort-worth-alliance-town-center/,138.16740962548704
+34,42,Southlake,1240 Prospect St,,Southlake,TX,76092,817-527-5040,32.94411610,-97.13285280,1,2018-11-01,/locations/tx/southlake/,143.6191663676556
+35,34,Dallas,8060 Park Lane,Suite 110,Dallas,TX,75231,469-620-0166,32.87053710,-96.76847620,1,2017-05-01,/locations/tx/dallas/,148.0449578525997
+36,97,The Woodlands,4747 Research Forest Dr,,Woodlands,TX,77381,281-982-1220,30.18521300,-95.49048020,1,2022-08-17,/locations/tx/woodlands/,63.40609507714068
+37,226,Jacksonville - Mandarin,10601 San Jose Blvd,Suite 405,Jacksonville,FL,32257,904-921-4700,30.18509460,-81.62645570,1,2026-02-11,/locations/fl/jacksonville-mandarin/,99.21623747341424
+38,131,Jacksonville,4668 Town Crossing Dr.,Suite 119,Jacksonville,FL,32246,904-740-4004,30.25870990,-81.52767000,1,2023-07-26,/locations/fl/jacksonville/,101.41799973220594
+39,184,Santa Barbara,5782 Calle Real,,Goleta,CA,93117,805-229-2899,34.44169330,-119.82562180,1,2025-10-16,/locations/ca/santa-barbara/,127.91786779859355
+40,157,Thousand Oaks,1772 E Avenida De Los Arboles,Suite 1772-G,Thousand Oaks,CA,91362,805-475-8155,34.21002180,-118.84559320,1,2024-05-31,/locations/ca/thousand-oaks/,16.988561587858307
+41,59,Oxnard,663 Town Center Dr,Suite 2315,Oxnard,CA,93036,805-295-4333,34.24060610,-119.17874310,1,2020-06-15,/locations/ca/oxnard/,19.516810765837143
+42,37,Woodland Hills,23373 Mulholland Dr,,Woodland Hills,CA,91364,818-878-8310,34.15869700,-118.63459360,1,2018-04-01,/locations/ca/woodland-hills/,23.61188507525687
+43,217,Topanga Village,6320 Topanga Canyon Blvd,Suite 1623,Woodland Hills,CA,91367,818-232-8002,34.18531370,-118.60529980,1,2025-09-19,/locations/ca/topanga-village/,25.961442568225547
+44,3,Santa Monica,514 Wilshire Blvd,,Santa Monica,CA,90401,310-393-2929,34.02005710,-118.49676370,1,2008-05-01,/locations/ca/santa-monica/,28.85604436981924
+45,124,Porter Ranch,20159 Rinaldi,Suite 110,Porter Ranch,CA,91326,818-232-8001,34.27535520,-118.57290660,1,2023-04-26,/locations/ca/porter-ranch/,30.960252697425343
+46,4,Marina del Rey,4728 Lincoln Blvd,,Marina Del Rey,CA,90292,310-823-2929,33.98040100,-118.43771340,1,2008-08-01,/locations/ca/marina-del-rey/,32.240802275939245
+47,2,Sherman Oaks,13833 Ventura Blvd,#103,Sherman Oaks,CA,91423,818-377-7200,34.14878850,-118.43448220,1,2007-01-01,/locations/ca/sherman-oaks/,33.95879369058488
+48,14,Beverly Hills,307 S Robertson Blvd,,Beverly Hills,CA,90211,310-299-4663,34.06193160,-118.38381940,1,2013-01-01,/locations/ca/beverly-hills/,35.541419455847574
+49,1,West Hollywood,8953 Sunset Blvd,,West Hollywood,CA,90069,310-385-8329,34.09079000,-118.38681200,1,2006-01-01,/locations/ca/west-hollywood/,35.66161267627581
+50,18,Hermosa Beach,1312 Hermosa Ave,,Hermosa Beach,CA,90254,424-262-7000,33.86318110,-118.40003930,1,2014-11-01,/locations/ca/hermosa-beach/,35.669787859754194
+51,48,Valencia,24256 Valencia Blvd,,Valencia,CA,91355,661-234-7100,34.41286310,-118.55828980,1,2019-05-01,/locations/ca/valencia/,38.0895848039042
+52,152,Los Feliz,4531 Hollywood Blvd,Suite F,Los Angeles,CA,90027,323-800-3380,34.09930180,-118.28820100,1,2024-12-05,/locations/ca/los-feliz/,41.322635659083325
+53,44,Downtown Los Angeles,810 Francisco St,,Los Angeles,CA,90017,310-882-7773,34.04848120,-118.26281320,1,2019-07-08,/locations/ca/downtown-los-angeles/,42.34778458077377
+54,133,Glendale,101 N Brand Blvd,Ste 145,Glendale,CA,91203,818-475-6700,34.14642120,-118.25547030,1,2023-07-12,/locations/ca/glendale/,43.79546360816612
+55,19,Pasadena,415 South Lake Ave,,Pasadena,CA,91101,626-657-0550,34.13867000,-118.13261720,1,2015-02-01,/locations/ca/pasadena/,50.56043925433816
+56,107,Long Beach,4725 E 2nd St,Suite B,Long Beach,CA,90803,562-800-5560,33.76189300,-118.13800620,1,2023-02-22,/locations/ca/long-beach/,52.11040477239385
+57,63,Cerritos,11409 South Street,,Cerritos,CA,90703,562-207-5770,33.85907290,-118.09046960,1,2020-08-03,/locations/ca/cerritos/,53.04372353579902
+58,20,Huntington Beach,7881 Edinger Ave,Suite 122,Huntington Beach,CA,92647,657-464-7999,33.73139270,-117.99106870,1,2015-05-01,/locations/ca/huntington-beach/,60.78657252548012
+59,165,Fullerton,1575 S Harbor Blvd,,Fullerton,CA,92832,714-409-0874,33.85562380,-117.92465090,1,2024-03-06,/locations/ca/fullerton/,62.45155249188963
+60,29,Brea,3333 E Imperial Highway,,Brea,CA,92823,714-592-2990,33.90950840,-117.85145030,1,2016-12-01,/locations/ca/brea/,66.12170524217271
+61,141,Orange,655 S Main St,#250,Orange,CA,92868,714-409-0906,33.77777110,-117.86690270,1,2024-08-08,/locations/ca/orange/,66.77922304797463
+62,7,Costa Mesa,369 E 17th St,Ste 4,Costa Mesa,CA,92627,949-548-2929,33.63089930,-117.91349740,1,2010-09-01,/locations/ca/costa-mesa/,67.38340254533207
+63,72,Anaheim Hills,5655 La Palma Ave,Suite 140,Anaheim,CA,92807,714-909-2200,33.86145840,-117.79134540,1,2021-06-09,/locations/ca/anaheim-hills/,69.94772965507684
+64,40,Tustin,15020 Kensington Park Dr,Suite 130,Tustin,CA,92782,657-335-4487,33.71319170,-117.81680940,1,2018-02-01,/locations/ca/tustin/,70.72186190939105
+65,198,Chino Hills,3650 Grand Ave,Suite A,Chino Hills,CA,91709,909-810-5040,34.00195010,-117.72748680,1,2025-06-13,/locations/ca/chino-hills/,72.89041185671344
+66,47,Newport Beach,7886 East Coast Hwy,,Newport Beach,CA,92657,949-432-7300,33.57044770,-117.83335220,1,2019-02-01,/locations/ca/newport-beach/,73.27506158626366
+67,9,Lake Forest,23626 El Toro Rd,Ste A,Lake Forest,CA,92630,949-455-2929,33.61814840,-117.70164390,1,2011-03-01,/locations/ca/lake-forest/,79.06952480718243
+68,182,Eastvale,12327 Limonite Ave,Suite 960,Eastvale,CA,91752,951-598-0068,33.97853250,-117.55086870,1,2024-12-18,/locations/ca/eastvale/,83.0316045878581
+69,58,Rancho Cucamonga,12439 North Mainstreet,,Rancho Cucamonga,CA,91739,909-490-5333,34.11189810,-117.53388170,1,2020-03-02,/locations/ca/rancho-cucamonga/,84.28087124750067
+70,106,Corona Hills,350 N McKinley St,Suite 104,Corona,CA,92879,951-228-0180,33.88725050,-117.52107640,1,2022-09-28,/locations/ca/corona-hills/,85.1277348543358
+71,79,Rancho Mission Viejo,30845 Gateway Pl,Suite E-3,Mission Viejo,CA,92694,949-866-5590,33.52246100,-117.61805000,1,2022-02-23,/locations/ca/mission-viejo/,85.96523220636935
+72,68,Bakersfield,9000 Ming Ave,Suite R1,Bakersfield,CA,93311,661-439-3818,35.34163050,-119.10474860,1,2021-03-01,/locations/ca/bakersfield/,92.8896335778748
+73,237,Menifee,30098 Haun Rd,Suite 310,Menifee,CA,92584,951-598-0500,33.68343300,-117.17440460,4,,/locations/ca/menifee/,107.0247478050438
+74,24,Temecula,40770 Winchester Rd,Suite 700,Temecula,CA,92591,951-395-0802,33.52424880,-117.15372700,1,2016-06-01,/locations/ca/temecula/,111.0282369433352
+75,6,Carlsbad,6965 El Camino Real,Suite 101,Carlsbad,CA,92009,760-929-9944,33.10439610,-117.26784700,1,2010-01-01,/locations/ca/carlsbad/,117.37427742894884
+76,197,Del Mar,12853 El Camino Real,Suite 109,San Diego,CA,92130,858-838-2808,32.95066280,-117.23293390,1,2025-09-12,/locations/ca/del-mar/,125.00967803799786
+77,145,Escondido,1356 W Valley Pkwy,Suite H,Escondido,CA,92029,760-531-0601,33.11149420,-117.10418510,1,2023-11-15,/locations/ca/escondido/,125.23502052840203
+78,33,4S Ranch,10432 Reserve Dr,Suite 111,San Diego,CA,92127,858-284-0777,33.02163950,-117.11392820,1,2017-05-01,/locations/ca/4s-ranch/,127.96339184677295
+79,115,Henderson,2260 Village Walk Dr,#100,Henderson,NV,89052,702-850-9970,36.02150800,-115.08744280,1,2023-01-18,/locations/nv/henderson/,148.91326405054997
+80,163,Surprise,16430 W Waddell Rd,Suite 110,Surprise,AZ,85388,623-471-7821,33.60982130,-112.41750300,1,2024-09-18,/locations/az/surprise/,42.955764315880735
+81,202,Arrowhead - AZ,20028 N. 67th Avenue,Suite 208,Glendale,AZ,85308,623-307-8770,33.66626450,-112.20547560,1,2025-08-20,/locations/az/arrowhead/,51.09928591932964
+82,195,Avondale,9796 W McDowell Rd,Suite 150,Phoenix,AZ,85037,623-299-7229,33.46483240,-112.27039030,1,2025-04-25,/locations/az/avondale/,55.900907339488455
+83,13,Scottsdale,15147 N Scottsdale Rd,Suite 123,Scottsdale,AZ,85260,480-948-2929,33.62376810,-111.92402340,1,2012-08-01,/locations/az/scottsdale/,67.01645254705947
+84,16,Phoenix - Arcadia,5017 N 44th St,Suite B205,Phoenix,AZ,85018,602-892-5005,33.51037590,-111.98619180,1,2014-08-01,/locations/az/phoenix-arcadia/,67.35153385506565
+85,17,Chandler,3305 W Chandler Blvd,Suite E04,Chandler,AZ,85226,602-892-5006,33.30477570,-111.89835930,1,2014-08-01,/locations/az/chandler/,79.5102955910665
+86,170,Gilbert - San Tan Village,2156 E. Williams Field Rd,Suite 106,Gilbert,AZ,85295,480-870-5990,33.30934880,-111.74330040,1,2024-07-19,/locations/az/gilbert-san-tan-village/,86.6080717473208
+87,77,Albuquerque,2241 Q St NE,Suite 7F,Albuquerque,NM,87110,505-420-5510,35.10328770,-106.56752250,1,2022-08-03,/locations/nm/albuquerque/,80.10473245958346
+88,230,Highland Village,1400 Shoal Creek,Suite 150,Highland Village,TX,75077,972-645-0042,33.07413370,-97.08614260,1,2026-03-25,/locations/tx/highland-village/,82.83866949346273
+89,150,Prosper,951 S Preston Rd,,Prosper,TX,75078,972-597-9507,33.22541450,-96.79472530,1,2024-03-20,/locations/tx/prosper/,87.60116467738534
+90,28,Frisco,3401 Preston Rd,D6,Frisco,TX,75034,469-269-5505,33.10742070,-96.80654840,1,2016-11-01,/locations/tx/frisco/,92.33408343399286
+91,231,Plano,1900 Preston Rd,#203,Plano,TX,75093,972-725-4245,33.02571070,-96.79156590,1,2026-03-13,/locations/tx/plano/,96.8383066653451
+92,208,Dallas - Addison,5100 Belt Line Rd,Suite 608,Dallas,TX,75254,972-597-9320,32.95111300,-96.82043330,1,2025-08-08,/locations/tx/dallas-addison/,99.36474076613437
+93,235,Dallas - Garland,320 Cedar Sage Dr,,Garland,TX,75040,972-725-4245,32.95296680,-96.61174440,4,2026-06-26,/locations/tx/dallas-garland/,107.86307609365956
+94,87,Oklahoma City,5810 N Classen Blvd,Suite 1B,Oklahoma City,OK,73118,405-876-8500,35.53176490,-97.53390630,1,2021-12-08,/locations/ok/oklahoma-city/,109.09183965694059
+95,151,Rockwall,"991 East Interstate 30, Suite 103",,Rockwall,TX,75087,972-597-9512,32.90425320,-96.45323620,1,2024-03-13,/locations/tx/rockwall/,116.97121111200659
+96,147,Birmingham,133 Summit Blvd,Suite C2,Birmingham,AL,35243,659-216-5454,33.44432970,-86.73073510,1,2024-01-31,/locations/al/birmingham/,135.94128111070847
+97,89,Atlanta - Buckhead,77 W Paces Ferry Rd NW,Suite 35C,Atlanta,GA,30305,404-531-7700,33.83999730,-84.38101920,1,2022-01-26,/locations/ga/atlanta-buckhead/,93.48004461151294
+98,118,Atlanta - Midtown,931 Monroe Ave,113D,Altanta,GA,30308,404-531-7100,33.78039910,-84.36844540,1,2023-03-08,/locations/ga/atlanta-midtown/,94.79971576639724
+99,183,Peachtree,5161 Peachtree Parkway,Suite 620,Peachtree Corners,GA,30092,678-470-4140,33.98008270,-84.21721980,1,2025-01-15,/locations/ga/peachtree/,102.14045586746663
+100,120,Charlotte,100 W Worthington Ave,Suite 105,Charlotte,NC,28203,704-800-4400,35.05739340,-80.84629200,1,2023-03-01,/locations/nc/charlotte/,142.70803713778153
+101,185,Charlotte-Ballantyne,14020 Stream Way,Suite 115,Charlotte,NC,28277,980-350-5120,35.05739340,-80.84629200,1,2025-01-08,/locations/nc/charlotte-ballantyne/,142.70803713778153
+102,228,Greensboro,806-A Friendly Rd,,Greensboro,NC,27408,336-606-4000,36.10468690,-79.81286490,1,2026-04-08,/locations/nc/greensboro/,145.80603764130225
+103,31,Los Gatos,15200 Los Gatos Blvd,Suite 400,Los Gatos,CA,95032,669-271-0029,37.24766900,-121.95616590,1,2017-03-01,/locations/ca/los-gatos/,17.28201412847313
+104,11,San Jose,377 Santana Row,Suite 1080,San Jose,CA,95128,408-248-2929,37.31991250,-121.94809370,1,2011-10-01,/locations/ca/san-jose/,22.288089696578776
+105,15,Mountain View,565 San Antonio Rd,Suite 23,Mountain View,CA,94040,650-941-7107,37.40272830,-122.11210220,1,2014-04-01,/locations/ca/mountain-view/,28.501870990529092
+106,81,Milpitas,1325 McCandless Drive,,Milpitas,CA,95035,408-889-4910,37.41219950,-121.89943820,1,2021-12-15,/locations/ca/milpitas/,29.013218414841145
+107,36,Palo Alto,2100 El Camino Real,Suite D,Palo Alto,CA,94306,650-285-0558,37.42607050,-122.14812670,1,2017-12-01,/locations/ca/palo-alto/,30.54647485230423
+108,83,San Carlos,661 El Camino Real,Suite 102,San Carlos,CA,94070,650-514-6090,37.50708550,-122.25967270,1,2021-09-15,/locations/ca/san-carlos/,37.83529664447408
+109,49,Fremont,37100 Fremont Blvd,Suite E,Fremont,CA,94536,510-402-1150,37.56031460,-122.01053040,1,2019-04-01,/locations/ca/fremont/,38.71875816288873
+110,21,Burlingame,1411 Burlingame Ave,,Burlingame,CA,94010,650-524-5554,37.57750670,-122.34824780,1,2015-07-01,/locations/ca/burlingame/,44.25670640073351
+111,26,Dublin,5264 Dublin Blvd,Suite 525,Dublin,CA,94568,925-587-3330,37.70573590,-121.89122790,1,2016-07-01,/locations/ca/dublin/,49.126775906573265
+112,50,San Ramon,6000 Bollinger Canyon Rd,Suite 1201,San Ramon,CA,94583,925-385-6300,37.76332110,-121.95944240,1,2019-06-01,/locations/ca/san-ramon/,52.78796351791536
+113,27,Castro,410 Castro St,,San Francisco,CA,94114,415-429-0240,37.76220840,-122.43555240,1,2016-09-01,/locations/ca/san-francisco-castro/,57.83878591059658
+114,46,San Francisco - Union Square,355 Sutter St,,San Francisco,CA,94108,415-612-1785,37.78921710,-122.40624260,1,2019-02-18,/locations/ca/san-francisco-union-square/,58.91362108275124
+115,91,Oakland,5108 Broadway St,K106,Oakland,CA,94611,510-777-6170,37.83516270,-122.24930330,1,2022-05-11,/locations/ca/oakland/,59.30432180041272
+116,103,Tracy,2613 Naglee Rd,,Tracy,CA,95304,209-657-6000,37.75635940,-121.46510070,1,2022-07-27,/locations/ca/tracy/,59.94660482224851
+117,61,Emeryville,5679 Bay Street ,,Emeryville,CA,94608,510-241-3366,37.83623940,-122.29270180,1,2020-02-03,/locations/ca/emeryville/,59.970175885907835
+118,8,San Francisco - The Marina,1878 Union St,,San Francisco,CA,94123,415-563-7300,37.79794340,-122.43023460,1,2011-02-01,/locations/ca/san-francisco-marina/,59.97782206370251
+119,10,Walnut Creek,1648 Bonanza St,,Walnut Creek,CA,94596,925-937-2929,37.89966620,-122.06295140,1,2011-05-01,/locations/ca/walnut-creek/,62.25745047166701
+120,144,Brentwood,2565 Sand Creek Road,Ste 116,Brentwood,CA,94513,925-315-8550,37.94613160,-121.73714880,1,2024-01-24,/locations/ca/brentwood/,66.94215811959839
+121,69,Concord,2095 Diamond Blvd,Suite 125,Concord,CA,94520,925-488-9050,37.97308020,-122.05794410,1,2021-04-01,/locations/ca/concord/,67.30910183285151
+122,98,Corte Madera,1716 Redwood Highway,Suite A025,Corte Madera,CA,94925,415-532-3637,37.93309160,-122.51602850,1,2022-04-13,/locations/ca/corte-madera/,70.40827246207297
+123,22,Novato,108 Vintage Way,Suite B-1,Novato,CA,94945,415-798-8500,38.09193610,-122.55397840,1,2015-09-01,/locations/ca/novato/,81.32086120190313
+124,117,Elk Grove,7711 Laguna Blvd,Suite 200,Elk Grove,CA,95758,916-777-0460,38.42495440,-121.41289360,1,2022-12-21,/locations/ca/elk-grove/,103.55314702269807
+125,160,Santa Rosa,2160 Santa Rosa Ave,,Santa Rosa,CA,95407,707-572-5020,38.41802550,-122.71239980,1,2025-10-17,/locations/ca/santa-rosa/,105.43118729470645
+126,199,Davis,875 Russell Boulevard,Suite 120,Davis,CA,95616,530-531-8505,38.54750970,-121.76025570,1,2025-07-11,/locations/ca/davis/,107.7223536092238
+127,64,Sacramento - Midtown,1800 19th St,,Sacramento,CA,95811,916-333-7172,38.56829750,-121.48524650,1,2020-11-02,/locations/ca/sacramento-midtown/,111.94591128326245
+128,166,East Sacramento,563 Pavilions Lane,,Sacramento,CA,95825,916-580-6646,38.57512780,-121.41066100,1,2024-02-21,/locations/ca/east-sacramento/,113.48921863827408
+129,212,Sacramento - Fair Oaks,5321 Sunrise Blvd,,Fair Oaks,CA,95628,916-414-8300,38.66268930,-121.27389960,1,2026-01-14,/locations/ca/sacramento-fair-oaks/,121.5223127878251
+130,234,Fresno - Fig Garden,642 W Shaw Ave,,Fresno,CA,93704,559-777-2507,36.80894580,-119.80543200,4,2026-05-06,/locations/ca/fresno-fig-garden/,121.96409408144228
+131,65,Fresno,8346 N. Fresno St,Suite 104,Fresno,CA,93720,559-785-9830,36.85502760,-119.78364450,1,2020-11-01,/locations/ca/fresno/,122.82349319509932
+132,52,Folsom,350 Palladio Pkwy,Suite 1967,Folsom,CA,95630,916-245-9200,38.65033980,-121.12069550,1,2019-07-15,/locations/ca/folsom/,123.71362694314584
+133,99,Fresno - Clovis,1220 Shaw Ave,Suite 101,Clovis,CA,93612,559-373-0000,36.80738360,-119.69350700,1,2022-03-23,/locations/ca/fresno-clovis/,128.12542505837877
+134,70,Roseville,1198 Roseville Parkway,Suite 120,Roseville,CA,95678,916-963-9184,38.76835760,-121.26761850,1,2021-06-01,/locations/ca/roseville/,128.54354934197727
+135,66,Summerlin,10300 W Charleston Blvd,Suite 10,Las Vegas,NV,89135,725-600-0196,36.16044890,-115.32160870,1,2021-01-15,/locations/nv/summerlin/,69.1492961337545
+136,23,Las Vegas - Town Square,6551 Las Vegas Blvd,S R-144,Las Vegas,NV,89119,702-848-3819,36.06932820,-115.17659540,1,2015-11-01,/locations/nv/las-vegas-town-square/,78.89566535782434
+137,176,Wichita,2132 N Rock Rd,Suite 105,Wichita,KS,67206,316-444-8014,37.72163870,-97.24347240,1,2024-07-24,/locations/ks/wichita/,64.90145715267198
+138,88,Kansas City - Leawood,4832 W 119th St,,Leawood,KS,66209,913-372-6100,38.91342920,-94.64232990,1,2022-03-30,/locations/ks/kansas-city/,133.6345218048821
+139,225,Kansas City - Lee's Summit,880 NW Blue Parkway,Suite H,Lee's Summit,MO,64086,816-815-5105,38.93005320,-94.40285860,1,2026-03-06,/locations/mo/kansas-city-lees-summit/,137.26402995431346
+140,156,St Louis,10 Maryland Plaza,,St. Louis,MO,63108,314-380-9190,38.64456070,-90.26194920,1,2024-06-12,/locations/mo/st-louis/,148.01397333671738
+141,218,Nashville - The Gulch,1208 Demonbreun,,Nashville,TN,37203,615-685-1105,36.15456800,-86.78690230,1,2025-11-05,/locations/tn/nashville-the-gulch/,135.9773435022509
+142,119,Nashville,2120 Green Hills Village Dr.,Suite 310,Nashville,TN,37215,615-510-7860,36.10859750,-86.81336260,1,2023-01-11,/locations/tn/nashville/,136.09306279610905
+143,207,Lexington,2300 Sir Barton Way,Suite 140,Lexington,KY,40509,859-951-6001,38.02267350,-84.42153920,1,2025-07-25,/locations/ky/lexington/,111.69826960571086
+144,162,Raleigh,6325 Falls of Neuse Road,#7,Raleigh,NC,27615,984-283-0063,35.86893220,-78.62293910,1,2024-08-07,/locations/nc/raleigh/,109.39194852619873
+145,181,Richmond,3535 Ellwood Ave,,Richmond,VA,23221,804-846-3006,37.55696830,-77.48798500,1,2024-11-06,/locations/va/richmond/,143.36226077057455
+146,132,Alexandria,814 N Saint Asaph St.,,Alexandria,VA,22314,703-454-5500,38.81350010,-77.04431150,1,2023-10-11,/locations/va/alexandria/,125.3254254178718
+147,167,Washington DC - The Yards,145 N St SE,,Washington,DC,20303,202-827-6000,38.87456110,-77.00435710,1,2024-08-09,/locations/dc/washington-dc-the-yards/,129.52131922633586
+148,84,Arlington - VA,2809 Clarendon Blvd,Suite 155,Arlington,VA,22201,703-810-7700,38.88848640,-77.09200520,1,2021-11-19,/locations/va/arlington/,130.57950185732602
+149,95,Tysons,1630 Boro Place,,Tysons,VA,22102,703-672-8320,38.92356210,-77.23286990,1,2022-12-16,/locations/va/tysons/,133.51065635545163
+150,93,Washington DC - Cathedral Heights,3318 Wisconsin Ave NW,Space 5,Washington,DC,20016,202-967-4060,38.93431330,-77.07265860,1,2022-05-18,/locations/dc/washington-dc-cathedral-heights/,133.70819906615543
+151,135,Reston,11918 Market St.,,Reston,VA,20190,703-672-8305,38.95888660,-77.35752140,1,2023-10-25,/locations/va/reston/,136.74053691464536
+152,127,North Bethesda,926 Rose Ave,,North Bethesda,MD,20852,301-478-7000,39.05084460,-77.11680290,1,2023-04-19,/locations/md/north-bethesda/,141.84374512854887
+153,114,Ashburn,20325 Exchange St,,Ashburn,VA,20147,703-372-9900,39.05355750,-77.45457930,1,2023-02-15,/locations/va/ashburn/,144.0289946857054
+154,211,Reno,13925 S Virginia Street,Suite 246,Reno,NV,89511,775-366-1999,39.40423920,-119.74993310,1,2025-08-27,/locations/nv/reno/,126.49243434612288
+155,206,Riverton,4531 W Partridge Hill Ln,Suite F-105,Riverton,UT,84096,385-531-7511,40.50854540,-111.99888650,1,2025-10-03,/locations/ut/riverton/,63.4142361229284
+156,129,Salt Lake City - Murray,6157 S State St,Suite 2,Murray,UT,84107,801-893-8400,40.63688840,-111.88792740,1,2023-05-17,/locations/ut/salt-lake-city-murray/,73.27059752421725
+157,80,Salt Lake City - Downtown,602 E 500 S,Suite D114,Salt Lake City,UT,84102,801-928-7100,40.75745300,-111.87187150,1,2021-11-10,/locations/ut/salt-lake-city-downtown/,79.1491665039308
+158,209,Station Park,150 N Central Ave,,Farmington,UT,84025,801-980-4001,40.98339950,-111.90592480,1,2025-10-01,/locations/ut/station-park/,89.00298719814802
+159,179,Boulder,3000 Pearl Street,Suite 1250,Boulder,CO,80301,720-784-8470,40.02309990,-105.25308760,1,2024-12-13,/locations/co/reve-boulder/,92.45923623676688
+160,136,Belmar,7230 W. Alaska Dr,,Lakewood,CO,80226,303-865-9005,39.70904690,-105.07727730,1,2024-10-09,/locations/co/belmar/,103.94478005174425
+161,174,Denver - Berkeley,3926 Tennyson St,Suite 100,Denver,CO,80212,303-351-0103,39.77149600,-105.04369400,1,2024-10-02,/locations/co/denver-berkeley/,104.91117977389425
+162,82,Denver,4076 9th Ave,,Denver,CO,80220,303-900-7170,39.73089240,-104.93977180,1,2021-12-01,/locations/co/denver-cherry-creek/,110.82884017255515
+163,113,Centennial - Park Meadows,8433 Park Meadows Center Dr,D147,Lone Tree,CO,80124,303-865-9001,39.56199840,-104.87784370,1,2022-09-07,/locations/co/centennial-park-meadows/,116.67314437905767
+164,186,Omaha,17151 Davenport St,Suite 121,Omaha,NE,68118,402-741-7400,41.26029890,-96.18357940,1,2025-02-05,/locations/ne/omaha/,129.04874576803564
+165,94,Naperville,1023 S Washington Street,Suite B103,Naperville,IL,60540,630-634-0410,41.75576860,-88.14343520,1,2022-04-20,/locations/il/naperville/,129.30141533766357
+166,224,Schererville-Shops on Main,79-A US-41,Suite 200,Schereville,IN,46375,219-300-1355,41.52019740,-87.46980000,1,2026-01-07,/locations/in/schererville-shops-on-main/,132.07834891169037
+167,173,Chicago - Elmhurst,183 S. IL RT. 83,,Elmhurst,IL,60126,630-528-2222,41.89495980,-87.96168720,1,2024-08-28,/locations/il/chicago-elmhurst/,141.69729460463773
+168,155,Chicago - West Loop,841 West Madison Street,,Chicago,IL,60607,773-521-5220,41.88161950,-87.64902190,1,2024-06-07,/locations/il/chicago-west-loop/,147.8937973062697
+169,67,Chicago - River North,666 N Wells St,,Chicago,IL,60654,312-820-0450,41.89436100,-87.63452300,1,2021-05-03,/locations/il/chicago-river-north/,149.025212168013
+170,56,Chicago - Bucktown,1953 W Wabansia Ave,,Chicago,IL,60622,312-313-7477,41.91214280,-87.67716370,1,2019-11-01,/locations/il/chicago-bucktown/,149.05783244925806
+171,239,Indianapolis - Carmel,14550 Clay Terrace Blvd,Suite 100,Carmel,IN,46032,317-641-0660,39.99885590,-86.13040330,4,2026-06-30,/locations/in/indianapolis-carmel/,6.902645321065141
+172,168,Indianapolis - Bottleworks,830 Massachusetts Ave.,#1410,Indianapolis,IN,46204,317-743-5000,39.77883330,-86.14414330,1,2024-06-26,/locations/in/indianapolis/,17.08549745332746
+173,196,Cincinnati,2743 Erie Ave,,Cincinnati,OH,45208,513-812-2233,39.13947670,-84.44125420,1,2025-07-16,/locations/oh/cincinnati/,102.11268547185375
+174,171,Columbus,601 N High St,,Columbus,OH,43215,614-482-3000,39.97472220,-83.00325270,1,2024-06-19,/locations/oh/columbus/,1.7550146209817117
+175,238,Cleveland-Crocker Park,155 Crocker Park Blvd,,Westlake,OH,44145,440-540-2700,41.45944940,-81.95103090,4,2026-06-17,/locations/oh/cleveland-crocker-park/,114.824075769311
+176,194,Cleveland-Pinecrest,400 Park Ave,Suite 186,Orange,OH,44122,216-800-4840,41.45154870,-81.48597990,1,2025-03-26,/locations/oh/cleveland/,127.83769722797177
+177,229,Pittsburgh,5426 Walnut St,,Pittsburgh,PA,15232,412-460-4500,40.45073680,-79.93443860,1,2026-03-11,/locations/pa/pittsburgh/,31.33470925103607
+178,187,Baltimore,605 S Exeter St,,Baltimore,MD,21202,443-678-0801,39.28423010,-76.60006410,1,2025-05-09,/locations/md/baltimore/,53.83876299024438
+179,177,Philadelphia - Main Line,135 W Lancaster Ave,,Ardmore,PA,19003,484-286-2086,40.00935690,-75.29393780,1,2024-08-21,/locations/pa/philadelphia-main-line/,90.2951653913461
+180,138,Philadelphia - Rittenhouse,1503 Walnut St.,,Philadelphia,PA,19102,215-798-5500,39.94966910,-75.16615440,1,2023-11-29,/locations/pa/philadelphia-rittenhouse/,97.1601811861886
+181,204,Philadelphia - Jenkintown,901 Old York Road,Suite 2,Jenkintown,PA,19046,215-986-2900,40.10686260,-75.12310790,1,2025-08-06,/locations/pa/philadelphia-jenkintown/,99.53686815273218
+182,221,Denville,3056 NJ-10,Ste Y,Denville,NJ,07834,973-528-8250,40.86617950,-74.50631920,1,2025-10-29,/locations/nj/denville/,144.15009111407878
+183,201,Summit,351 Springfield Ave,,Summit,NJ,07901,908-940-0610,40.71832160,-74.35686870,1,2025-12-10,/locations/nj/summit/,147.7382792745344
+184,222,Woodbridge,994 Saint Georges Avenue,Suite #A-5,Avenel,NJ,07001,732-808-0999,40.57282700,-74.29297940,1,2025-12-05,/locations/nj/woodbridge/,148.05825661016934
+185,143,Brooklyn - Park Slope,159 5th Ave,Suite R,Brooklyn,NY,11217,332-456-6336,40.67766830,-73.97919270,1,2023-12-20,/locations/ny/brooklyn-park-slope/,46.8356985010249
+186,51,Brooklyn - Brooklyn Heights,118 Court St,,Brooklyn,NY,11201,917-970-3223,40.69011820,-73.99243700,1,2019-07-18,/locations/ny/brooklyn-heights/,47.68475527208636
+187,38,Manhattan - TriBeCa,143 Duane St,,Tribeca,NY,10013,212-315-8529,40.71653950,-74.00788060,1,2018-04-01,/locations/ny/manhattan-city-tribeca/,49.51038641692867
+188,108,Brooklyn - Williamsburg,89 N 4th St,,Brooklyn,NY,11249,718-675-3300,40.71747790,-73.96121750,1,2022-07-13,/locations/ny/brooklyn-williamsburg/,49.615518485378125
+189,25,Manhattan - Flatiron,35 E 19th St,,New York,NY,10003,212-390-0992,40.73830690,-73.98901190,1,2016-07-01,/locations/ny/manhattan-flatiron/,51.01592586224564
+190,142,Manhattan - Meatpacking,317 West 13th St.,,New York,NY,10014,332-895-2925,40.73955600,-74.00387510,1,2023-12-22,/locations/ny/manhattan-meatpacking/,51.099359252176676
+191,125,Hoboken,220 Washington St,,Hoboken,NJ,07030,201-374-3000,40.73946550,-74.03054010,1,2023-06-28,/locations/nj/hoboken/,51.117985143816334
+192,73,Queens - Astoria,36-07 30th Ave,,Astoria,NY,11103,718-675-3800,40.76505140,-73.91697770,1,2021-07-28,/locations/ny/queens-astoria/,53.04081812761869
+193,39,Manhattan - Upper East Side,1430 2nd Ave,,New York,NY,10021,212-389-1163,40.77037700,-73.95688500,1,2018-10-01,/locations/ny/manhattan-upper-east-side/,53.276842785472496
+194,35,Manhattan - Upper West Side,147 Amsterdam Ave,,New York,NY,10023,212-301-0659,40.77486230,-73.98412720,1,2017-09-01,/locations/ny/manhattan-upper-west-side/,53.54492508435911
+195,149,Manhattan - Morningside Heights,2780 Broadway,,New York,NY,10025,917-451-8679,40.80225140,-73.96747520,1,2024-03-27,/locations/ny/manhattan-morningside-heights/,55.45724425012355
+196,102,Long Island - Garden City,932 Old Country Rd,,Garden City,NY,11530,516-894-9000,40.74395520,-73.60369320,1,2022-06-15,/locations/ny/long-island-garden-city/,55.47467922733332
+197,146,Edgewater,725 River Rd,STE 25,Edgewater,NJ,07020,201-591-2000,40.82007900,-73.97721780,1,2024-01-17,/locations/nj/edgewater/,56.67529029360091
+198,104,Long Island - Manhasset,1595 Northern Blvd,,Manhasset,NY,11030,516-566-0910,40.79438910,-73.68815610,1,2025-12-12,/locations/ny/long-island-manhasset/,57.28784159968068
+199,172,Clifton,354 Route 3 West,,Clifton,NJ,07014,973-933-1111,40.82926660,-74.13707290,1,2024-06-28,/locations/nj/clifton/,57.74936505359267
+200,134,Englewood,32 S Dean St.,,Englewood,NJ,07631,201-482-9000,40.89266360,-73.97513540,1,2023-11-17,/locations/nj/englewood/,61.691637690036394
+201,53,Long Island - Woodbury,8285 Jericho Turnpike,Suite 4H,Woodbury,NY,11797,516-447-2747,40.81771960,-73.46677320,1,2019-08-02,/locations/ny/long-island-woodbury/,63.080582742628685
+202,109,Scarsdale,715 White Plains Rd,,Scarsdale,NY,10583,914-886-9000,40.97116950,-73.80650140,1,2022-08-31,/locations/ny/scarsdale/,67.86810400812381
+203,215,Montvale,295 W Grand Ave,,Montvale,NJ,07645,201-252-5000,41.05367700,-74.06168960,1,2025-10-15,/locations/nj/montvale/,72.87490527968235
+204,148,Stamford,"2000 West Main Street, Suite 450",,Stamford,CT,06902,203-580-8500,41.04824480,-73.56371930,1,2024-01-10,/locations/ct/stamford/,75.96537785495741
+205,240,Cranston,181 Sockanosset Cross Rd,Suite 4200,Cranston,RI,02920,401-445-0050,41.75685000,-71.45760260,4,2026-06-10,/locations/ri/cranston/,123.71900176607502
+206,78,Boise,3693 E Longwing Ln,Suite 110,Meridian,ID,83646,208-725-3090,43.62210990,-116.34810460,1,2021-10-20,/locations/id/boise/,140.07592496927637
+207,175,Madison,754 N Midvale Blvd,,Madison,WI,53705,608-453-6010,43.07472190,-89.45140730,1,2024-09-06,/locations/wi/madison/,128.80624855893402
+208,126,Edina,3942 W 50th St,,Edina,MN,55424,952-592-0052,44.91280510,-93.33110700,1,2023-06-14,/locations/mn/edina/,147.81403557252565
+209,205,Chicago - Deer Park,20530 N Rand Rd,Suite 432,Deer Park,IL,60010,847-318-3333,42.16140180,-88.05464990,1,2025-08-13,/locations/il/chicago-deer-park/,75.30132964327518
+210,74,Northbrook,1036 Willow Rd,Suite G,Northbrook,IL,60062,847-957-9000,42.10679660,-87.80380450,1,2021-07-14,/locations/il/chicago-northbrook/,86.69070705374484
+211,139,Evanston,820 Davis St.,Suite 103,Evanston,IL,60201,847-773-4277,42.04667880,-87.68292230,1,2023-11-01,/locations/il/evanston/,94.00258274152799
+212,121,Chicago - Lincoln Park,2032 N Halsted St,Unit B,Chicago,IL,60614,773-365-1190,41.91915590,-87.64889350,1,2023-01-25,/locations/il/chicago-lincoln-park/,101.58659438429167
+213,233,East Lansing,2946 Centre Blvd,,Lansing,MI,48912,517-299-8801,42.76339750,-84.51603610,1,2026-02-20,/locations/mi/east-lansing/,76.88905382740315
+214,193,Detroit-Birmingham,135 E. Maple Rd,,Birmingham,MI,48009,248-800-2100,42.54689150,-83.21386870,1,2025-05-14,/locations/mi/detroit-birmingham/,144.7264319742876
+215,153,Wellesley,200 Linden Street,Suite 200L,Wellesley,MA,02482,781-590-8010,42.30156730,-71.29153210,1,2024-04-24,/locations/ma/wellesley/,145.84642472108783
+216,180,Woburn,290 Mishawum Road,Suite 250,Woburn,MA,01801,781-504-0604,42.50545100,-71.13503780,1,2024-10-16,/locations/ma/woburn/,149.30828120883484
+217,86,Somerville,365 Canal Street,Block 5A #512,Somerville,MA,02145,617-651-5770,42.39399590,-71.07963680,1,2022-03-02,/locations/ma/somerville/,42.06613416525452
+218,123,Boston - Fenway,1369 Boylston St,,Boston,MA,02215,617-420-6080,42.34414300,-71.10054100,1,2023-03-29,/locations/ma/boston-fenway/,45.602766810739354
+219,178,Beaverton,2855 SW Cedar Hills Blvd,Suite 105,Beaverton,OR,97005,503-213-6288,45.49929890,-122.80770700,1,2024-09-05,/locations/or/beaverton/,111.21126813799636
+220,96,Portland - Tigard,7459 SW Bridgeport Rd,E105,Tigard,OR,97224,503-809-2810,45.39574500,-122.75268000,1,2022-09-14,/locations/or/portland-tigard/,116.20513227353008
+221,210,Portland-Cascade Station,9945 NE Cascades Pkwy,,Portland,OR,97220,503-882-6330,45.57489120,-122.55970120,4,2026-05-29,/locations/or/portland-cascade-station/,121.18350127351471
+222,232,Tacoma,3634 Market Place West,Suite 103,Tacoma,WA,98466,253-478-8111,47.22465600,-122.53663200,1,2026-03-27,/locations/wa/tacoma/,144.3139643832873
+223,90,Seattle,4608 25th Ave. NE,,Seattle,WA,98105,206-333-5610,47.66200060,-122.30018360,1,2022-03-16,/locations/wa/seattle/,115.70755232587165
+224,100,Kirkland,12655 120th Ave NE,Suite 192,Kirkland,WA,98034,425-522-5090,47.71327190,-122.18070310,1,2022-07-20,/locations/wa/kirkland/,118.68436819485724
